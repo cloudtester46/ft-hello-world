@@ -4,6 +4,6 @@
 - [x] Add a font and colors that feel like ft.com
 - [x] Add files needed to put it online
 - [x] Check the project files
-- [ ] Save the project online
+- [x] Save the project online
 - [ ] Put the site online
 - [ ] Share the live link
