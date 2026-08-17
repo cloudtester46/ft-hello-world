@@ -5,5 +5,5 @@
 - [x] Add files needed to put it online
 - [x] Check the project files
 - [x] Save the project online
-- [ ] Put the site online
-- [ ] Share the live link
+- [x] Put the site online
+- [x] Share the live link
